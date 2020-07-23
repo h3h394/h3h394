@@ -1,9 +1,9 @@
 ![headingBg](https://github.com/h3h394/h3h394/blob/master/img/codeBg.jpg)
 
-I'm a 25 year-old front-end Web Developer from Belgrade, Serbia. I have a passion for creating fast loading, dynamic, and responsive websites using the latest technologies available.
+I'm a 26 year-old front-end Web Developer from Belgrade, Serbia. I have a passion for creating fast loading, dynamic, and responsive websites using the latest technologies available.
 
 ``
-{ name: Milos, age: 30 }
+{ name: Milos, age: 26 }
 ``
 
 Languages / Frameworks:
