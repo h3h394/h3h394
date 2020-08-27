@@ -14,6 +14,10 @@ Languages / Frameworks:
 * Javascript
 * React
 
+### 9 React Projects Udemy Course
+
+💻 [9 React Projects Udemy Course][9 React Projects Udemy Course]
+
 ### Lets connect
 
 💻 [Website][Website] / 🎥 [Youtube][Youtube] / 🐦 [Twitter][Twitter] / 📷 [Instagram][Instagram] / 👨‍👨‍👧‍👦 [Linkedin][Linkedin] / 🐧 [Discord][Discord]
@@ -24,3 +28,4 @@ Languages / Frameworks:
 [Instagram]: https://www.instagram.com/h3webdevtuts/
 [Linkedin]: https://www.linkedin.com/in/milos-stevic-5bb648184/
 [Discord]: https://discord.gg/PP7K8Z
+[9 React Projects Udemy Course]: https://bit.ly/2D83M8c
