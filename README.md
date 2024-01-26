@@ -1,10 +1,9 @@
 ![headingBg](https://github.com/h3h394/h3h394/blob/master/img/codeBg.jpg)
 
-I'm a 27 year-old front-end Web Developer from Belgrade, Serbia. I have a passion for creating fast loading, dynamic,
-and responsive websites using the latest technologies available.
+I'm a 29 year-old Frontend Web Developer. I have a passion for creating fast loading, dynamic, and responsive websites using the latest technologies available.
 
 ``
-{ name: Milos, age: 27 }
+{ name: Milos, age: 29 }
 ``
 
 Languages / Frameworks:
@@ -13,6 +12,7 @@ Languages / Frameworks:
 * Scss
 * Javascript
 * React
+* Vue
 * Typescript
 
 ### 9 React Projects Udemy Course
@@ -21,11 +21,10 @@ Languages / Frameworks:
 
 ### Lets connect
 
-💻 [Website][Website] / 🎥 [Youtube][Youtube] / 🐦 [Twitter][Twitter] / 📷 [Instagram][Instagram] / 👨‍👨‍👧‍👦 [Linkedin][Linkedin] / 🐧 [Discord][Discord]
+💻 [Website][Website] / 🎥 [Youtube][Youtube] / 📷 [Instagram][Instagram] / 👨‍👨‍👧‍👦 [Linkedin][Linkedin] / 🐧 [Discord][Discord]
 
 [Website]: https://www.h3webdeveloper.com/
 [Youtube]: https://www.youtube.com/channel/UC96PvOMv01j3XejwOlAZPEg
-[Twitter]: https://twitter.com/h3webdeveloper
 [Instagram]: https://www.instagram.com/h3webdevtuts/
 [Linkedin]: https://www.linkedin.com/in/milos-stevic-5bb648184/
 [Discord]: https://discord.gg/PP7K8Z
