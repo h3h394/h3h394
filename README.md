@@ -32,5 +32,5 @@ React · TypeScript · JavaScript · Next.js · Vue · Supabase · HTML · CSS/S
 [Upwork]: https://www.upwork.com/freelancers/~01a71b424c278e7b54
 [Website]: https://www.h3webdeveloper.com/
 [Youtube]: https://www.youtube.com/channel/UC96PvOMv01j3XejwOlAZPEg
-[Linkedin]: https://www.linkedin.com/in/milos-stevic-5bb648184/
+[Linkedin]: https://www.linkedin.com/in/milos-s-5bb648184/
 [Udemy]: https://www.udemy.com/course/9-react-projects/
