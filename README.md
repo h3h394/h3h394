@@ -1,10 +1,10 @@
-# Hi, I'm Milos 👋
+# Hi, I'm Milos
 
 React developer building fast, polished web apps with **React, TypeScript and Supabase**, from first design to a live product with real users.
 
 Top Rated on Upwork with a 100% Job Success Score, 8+ years freelancing, plus full-time frontend roles at VideoKen and UpForJobs.
 
-### 🚀 Featured project
+### Featured project
 
 **[SxS Companion](https://www.sxscompanion.com)**: a community web app for the mobile game Sword x Staff, designed and built solo.
 - 180+ registered players, up to 1,100 page views a day
@@ -12,17 +12,17 @@ Top Rated on Upwork with a 100% Job Success Score, 8+ years freelancing, plus fu
 - Real-time guild dashboards, push notifications and full SEO
 - React · TypeScript · Supabase · Vercel
 
-### 🛠️ What I build
+### What I build
 - React and Next.js web apps and dashboards
 - Supabase backends: auth, databases, security rules
 - Chrome extensions
 - Figma designs turned into responsive websites
 - Bug fixes, upgrades and speed optimization
 
-### 🧰 Tech
+### Tech
 React · TypeScript · JavaScript · Next.js · Vue · Supabase · HTML · CSS/SCSS · Tailwind
 
-### 🎓 Teaching
+### Teaching
 100+ web development tutorials on YouTube and the **[9 React Projects][Udemy]** course on Udemy.
 
 ### Lets connect
